@@ -1,0 +1,7 @@
+{
+  "name": "KRISHNA LAB SOLUTIONS",
+  "description": "AI-Powered Security & Weapon Detection System - Smart AI Surveillance for Safer Spaces with AXIS camera integration, real-time weapon detection, bounding boxes, security alerts, and analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
